@@ -26,7 +26,7 @@ Display processed frames on the screen using cv2.imshow(), and continuously chec
 
 
 ## i) Write the frame as JPG file
-```PY
+```
 import cv2
 viedoCaptureObject=cv2.VideoCapture(0)
 while(True):
@@ -37,7 +37,7 @@ viedoCaptureObject.release()
 cv2.destroyAllWindows()
 ```
 ## ii) Display the video
-```PY
+```
 import numpy as np
 import cv2
 cap=cv2.VideoCapture(0)
@@ -50,7 +50,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## iii) Display the video by resizing the window
-```PY
+```
 import numpy as np
 import cv2
 cap=cv2.VideoCapture(0)
@@ -71,7 +71,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## iv) Rotate and display the video
-```PY
+```
 import numpy as np
 import cv2
 cap=cv2.VideoCapture(0)
@@ -93,14 +93,15 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![1](https://github.com/user-attachments/assets/fa5f188b-773d-4681-b876-f86bb3af2c2a)
-
+![1](https://github.com/user-attachments/assets/4fb535e8-336a-45e5-96f0-dbaf0727559e)
 ### ii) Display the video
-![2](https://github.com/user-attachments/assets/6972a9b5-9777-4068-b160-8dae051c8838)
+![2](https://github.com/user-attachments/assets/c9b0839e-8af5-4ff0-b0af-db6f5be05f1f)
+
 ### iii) Display the video by resizing the window
-(![3](https://github.com/user-attachments/assets/4227495f-c2e4-4d60-95bd-79cbfcac92ab)
-./4.png)
+![3](https://github.com/user-attachments/assets/cf3d153a-c398-4e9c-b00c-8aa4fc49cf0c)
+
 ### iv) Rotate and display the video
-![4](https://github.com/user-attachments/assets/c9ffe867-2a60-49dc-afd3-fd5e4180aa22)
+![4](https://github.com/user-attachments/assets/b8a170ec-8127-43c9-b29c-b98a885151ee)
+
 ## Result:
-Thus theimage is accessed from webcamera and displayed using openCV.
+Thus the image is accessed from webcamera and displayed using openCV.
