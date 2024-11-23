@@ -52,7 +52,7 @@ import cv2
 cap=cv2.VideoCapture(0)
 while True:
     ret,frame=cap.read()
-    cv2.imshow('212222240018_berjin',frame)
+    cv2.imshow('212222240048_keerthi',frame)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
@@ -75,7 +75,7 @@ while True:
     image[height//2:, :width//2]=smaller_frame
     image[:height//2, width//2:]=smaller_frame
     image[height//2:, width//2:]=smaller_frame
-    cv2.imshow('212222240018_berjin',image)
+    cv2.imshow('212222240048_keerthi',image)
     if cv2.waitKey(1)==ord('q'):
         break
 cap.release()
