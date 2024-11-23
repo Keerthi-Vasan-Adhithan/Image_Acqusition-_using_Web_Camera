@@ -35,12 +35,12 @@ Anaconda - Python 3.7
 ### i) Write the frame as JPG file
 ```
 import cv2
-viedoCaptureObject=cv2.VideoCapture(0)
+videoCaptureObject=cv2.VideoCapture(0)
 while(True):
-    ret,frame=viedoCaptureObject.read()
+    ret,frame=videoCaptureObject.read()
     cv2.imwrite("NewPicture.jpg",frame)
     result=False
-viedoCaptureObject.release()
+videoCaptureObject.release()
 cv2.destroyAllWindows()
 
 ```
