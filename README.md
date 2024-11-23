@@ -108,25 +108,29 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>![WIN_20240221_21_55_10_Pro](https://github.com/Meetha22003992/Image_Acqusition-_using_Web_Camera/assets/119401038/dc958383-6b25-4ffb-9f4b-834287d88aab)
+![image](https://github.com/user-attachments/assets/7f3aba18-a207-4aab-977d-5a34cf6a27b8)
+
 
 </br>
 
 ### ii) Display the video
 
-![306707482-79d2b6ea-5df2-4745-92b9-86bdfc5eeafc](https://github.com/Apravinraj/Image_Acqusition-_using_Web_Camera/assets/118707879/b444511f-818e-4898-a1a3-f6a6c6b0ed33)
+![image](https://github.com/user-attachments/assets/9e347034-f56a-47f8-948f-bbe123c27acd)
+
 
 </br>
 
 ### iii) Display the video by resizing the window
 
-![306707562-bb61055e-9b6d-418b-a7bc-c6bb56ab18aa](https://github.com/Apravinraj/Image_Acqusition-_using_Web_Camera/assets/118707879/06e08b07-6d27-4617-8c15-0975e931dfea)
+![image](https://github.com/user-attachments/assets/550ea25f-7272-4bd9-8213-b36587d2374b)
+
 
 </br>
 
 ### iv) Rotate and display the video
 
-![306707647-cff52233-6cfb-476e-8c9b-6d204c97b31a](https://github.com/Apravinraj/Image_Acqusition-_using_Web_Camera/assets/118707879/f1854c6f-d497-48ac-a470-c4338e315a01)
+![image](https://github.com/user-attachments/assets/54deff37-0502-4706-ba56-20864204fef1)
+
 
 </br>
 
